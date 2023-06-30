@@ -34,10 +34,13 @@ h3{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 15px;
-    border-radius: 3%;
+    border-radius: 20px;
     color: white;
     font-size: 15px;
    
+}
+.para-section{
+    padding-bottom: 20px;
 }
 .recipies-area{
     text-align: center;
@@ -53,7 +56,7 @@ h3{
     margin-right: 5%;
     width: 40%;
     padding: 10px;
-    border-radius: 4%;
+    border-radius: 30px;
     
     
 }
@@ -69,6 +72,12 @@ h3{
 .subcribe-section h2{
     padding:5% ;
 }
-.subcribe-section h4{
+.subcribe-section p{
+    padding: 4%;
+}
+.footer-area{
+    text-align: center;
+    background-color: black;
+    color: white;
     padding: 5%;
 }
